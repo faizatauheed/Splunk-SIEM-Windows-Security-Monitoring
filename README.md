@@ -1,6 +1,6 @@
-**Splunk SIEM — Windows Security Monitoring & Brute-Force Detection
+Splunk SIEM — Windows Security Monitoring & Brute-Force Detection
 Overview
-**
+
 This project demonstrates a hands-on Security Information and Event Management (SIEM) lab using Splunk Enterprise and Windows Security Event Logs.
 
 The project focuses on collecting, searching, and investigating Windows authentication activity and developing a detection for repeated failed login attempts that may indicate a brute-force attack.
